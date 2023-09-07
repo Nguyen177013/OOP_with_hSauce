@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\bin\Debug\net6.0\SauceStorage.exe
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\bin\Debug\net6.0\SauceStorage.deps.json
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\bin\Debug\net6.0\SauceStorage.runtimeconfig.json
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\bin\Debug\net6.0\SauceStorage.dll
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\bin\Debug\net6.0\SauceStorage.pdb
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.AssemblyInfo.cs
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.dll
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\refint\SauceStorage.dll
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.pdb
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\SauceStorage.genruntimeconfig.cache
+C:\Users\HP\source\repos\SauceStorage\SauceStorage\obj\Debug\net6.0\ref\SauceStorage.dll
